@@ -1,1 +1,1 @@
-Student Management System
+student search system

@@ -1,1 +1,1 @@
-Student Registration System
+Student Registration and Search System
